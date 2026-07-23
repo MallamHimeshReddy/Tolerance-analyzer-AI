@@ -538,7 +538,7 @@ Used for
 
 # Authors
 
-Developed as a **B.Tech Artificial Intelligence Major Project**
+Developed by M Himesh Reddy **B.Tech Artificial Intelligence Major Project**
 
 **Project Title**
 
